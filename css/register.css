@@ -116,6 +116,31 @@ input {
   width: 231px;
   height: 45px;
 }
+.content111 {
+  position: absolute;
+  width: 100px;
+  height: 40px;
+  top: 150px;
+  left: 59px;
+  margin-top: 23px;
+}
+.content111 input {
+  outline: none;
+  width: 150px;
+  height: 30px;
+  padding-left: 10px;
+}
+.content111 button {
+  position: absolute;
+  top: 0;
+  left: 197px;
+  width: 130px;
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  background-color: #bbbbbb;
+  color: #666;
+}
 .content a {
   position: absolute;
   width: 325px;
@@ -123,7 +148,7 @@ input {
   text-align: center;
   line-height: 40px;
   left: 59px;
-  top: 200px;
+  top: 230px;
   color: black;
   border: 1px solid #bbbbbb;
 }

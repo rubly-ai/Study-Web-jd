@@ -141,8 +141,12 @@ li {
   margin-left: 20px;
 }
 
-.top222 {
-  margin-top: spx;
+.top222 #eye {
+  position: absolute;
+  top: 5px;
+  left: 268px;
+  width: 30px;
+  height: 30px;
 }
 .top2 i {
   position: absolute;
