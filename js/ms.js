@@ -2,7 +2,7 @@ window.addEventListener("load", function () {
   var sz = document.querySelector("#sz");
   var fz = document.querySelector("#fz");
   var mz = document.querySelector("#mz");
-  var inputtime = +new Date("2020-7-30,00:00:00");
+  var inputtime = +new Date("2020-8-10,00:00:00");
   time(); //先调用一次，防止有空白
   setInterval(time, 1000);
   function time(time) {
